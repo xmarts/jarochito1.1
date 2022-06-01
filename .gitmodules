@@ -12,3 +12,8 @@
 	path = xmarts/addendas_soriana
 	url = git@github.com:xmarts/addendas_soriana.git
 	branch = 15.0
+
+[submodule "xmarts/branch"]
+	path = xmarts/branch
+	url = git@github.com:xmarts/branch.git
+	branch = 15.0
