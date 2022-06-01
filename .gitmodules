@@ -7,3 +7,8 @@
 	path = xmarts/addenda_tiendas3b
 	url = git@github.com:xmarts/addenda_tiendas3b.git
 	branch = 15.0
+
+[submodule "xmarts/addendas_soriana"]
+	path = xmarts/addendas_soriana
+	url = git@github.com:xmarts/addendas_soriana.git
+	branch = 15.0
