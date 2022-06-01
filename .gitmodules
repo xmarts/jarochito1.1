@@ -17,3 +17,8 @@
 	path = xmarts/branch
 	url = git@github.com:xmarts/branch.git
 	branch = 15.0
+
+[submodule "xmarts/cfdi4-enterprise"]
+	path = xmarts/cfdi4-enterprise
+	url = git@github.com:xmarts/cfdi4-enterprise.git
+	branch = 15.0
