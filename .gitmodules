@@ -42,3 +42,8 @@
 	path = xmarts/ieps_calculation
 	url = git@github.com:xmarts/ieps_calculation.git
 	branch = 15.0-dev-victoralonsoxmarts
+
+[submodule "xmarts/l10n-mx-cartaporte"]
+	path = xmarts/l10n-mx-cartaporte
+	url = git@github.com:xmarts/l10n-mx-cartaporte.git
+	branch = 15.0
