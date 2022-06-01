@@ -37,3 +37,8 @@
 	path = xmarts/fieldservice_xma
 	url = git@github.com:xmarts/fieldservice_xma.git
 	branch = 15.0
+
+[submodule "xmarts/ieps_calculation"]
+	path = xmarts/ieps_calculation
+	url = git@github.com:xmarts/ieps_calculation.git
+	branch = 15.0-dev-victoralonsoxmarts
